@@ -1,0 +1,483 @@
+[
+    {
+        "CategoryName": "Admin Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Tyson Stevin",
+                "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6q2CXiJuk_EKeCFPOpxnBNG4ud5m8hx7irjk_loBKk6jw4jiQjXdZruHgGoXHlhQiGKI&usqp=CAU",
+                "Designation":"test123",
+                "Mobile": "01855555512",
+                "Email": "Admin1@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Charlee Bravo",
+                "url":"https://www.pngarts.com/files/5/Cartoon-Avatar-Transparent.png",
+                "Designation":"test123",
+                "Mobile": "01855555513",
+                "Email": "Admin2@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Mary Gold",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555514",
+                "Email": "Admin3@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Account Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "IT Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Program Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "MIS Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Training Unit",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://freesvg.org/img/myAvatar.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Audit Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "3211 Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Testers Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "HR Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Design Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Coders Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "123 Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "321 Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },   {
+        "CategoryName": "112 Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    },
+    {
+        "CategoryName": "113 Department",
+        "members": [
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            },
+            {
+                "id": 0,
+                "name": "Patty Tyler",
+                "url":"https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+                "Designation":"test123",
+                "Mobile": "01855555555",
+                "Email": "Admin@gmail.com"
+            }
+        ]
+    }
+
+
+]
